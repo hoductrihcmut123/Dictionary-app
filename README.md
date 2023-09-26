@@ -1,6 +1,6 @@
 # Dictionary-app
 
-# Android, Kotlin
+## Android, Kotlin
 
 + MVVM architecture
 + Get data from an API by Retrofit and cache it in a local room DB
